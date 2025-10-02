@@ -1,0 +1,233 @@
+aeon alter conversation
+aeon change emotion
+aeon quit
+exit
+I don't know.
+I don't know about this.
+I do.
+I feel happy.
+I feel sad.
+I feel well.
+I feel good.
+I feel angry.
+I smell bad.
+I like you.
+I love you.
+I am doing well.
+I am not sure.
+I'm not so sure.
+I am well.
+I am a man.
+I am good.
+I am fine.
+I am happy.
+I am a scientist
+I am here.
+I am in here.
+I am making some lunch now.
+I am making lunch.
+I am happy to hear that.
+I am sad to hear that.
+I am very pleased to meet you.
+I am listening to music.
+I am trying to improve your grammar.
+I am trying to fix your stack overflow.
+I am finishing supper.
+I am super freaking cool.
+I am a programmer.
+I go shower now.
+I go eat now.
+I go to sleep now.
+I program in the language C sharp.
+I am going to take a break.
+I am going to take a nap.
+It is Sunday.
+It is not sunny.
+It is tasty.
+It is nice today.
+It is raining.
+It is sunny.
+It is snowing.
+It is dark.
+Can you see me?
+Glad to see you.
+You look marvelous!
+Let's dance.
+Let us dance.
+That is nice.
+Do you know the dog?
+Do you know Tessa?
+Tessa is your new friend.
+She is lovely and small like you.
+This is your new friend.
+What do you think about that?
+What do you think?
+What kind of word is that?
+What else are you doing?
+What are you doing?
+With whom are you chatting?
+Who are you chatting with?
+Would you like to be my friend?
+Would you like to be friends?
+That is my job.
+That is a lovely name.
+Nice to see you.
+You have a good program.
+We should start a conversation.
+We should have a conversation.
+That makes me angry.
+You told me.
+You did.
+That is great to hear.
+That is a good idea.
+Tell me a joke.
+That was a funny joke
+Can tell me a joke?
+You are smart.
+What is your favourite food?
+What?
+Yes.
+Hello.
+How are you?
+Are you my friend?
+Good night.
+Goodbye for now.
+Goodbye.
+me too
+definitely
+that is nice to hear
+how is it going
+I need to figure your code.
+figure your code
+How goes it?
+with me too
+hello how are you
+hello there
+What time is it?
+Hello, Rhodo.
+i agree
+that goes without saying
+that is true
+okay then
+you are correct
+you are funny
+not yet
+ok
+for sure
+very funny
+i'd like to
+that is interesting
+excellent
+why not
+what should we talk about?
+how is it
+that is good
+what do you think about smoking?
+my back hurts me
+i like tapping
+i am a rapper-tapper
+your name is aeon
+how are things
+very well
+you are good
+do you know my name
+my name is Chris
+what is my name
+that is correct
+do you know me
+that is good to hear
+well you said something cool
+that you are either
+of course you won't
+that is groovy
+no you are not!
+what is your name
+what a lovely name
+the lights would turn off
+of course
+please do
+no way!
+glad to hear it
+i am here
+are you alone?
+like it know it
+tonight is a nice night
+a nice spring evening full of flowers
+yes, i go bath
+with my feet
+it could be
+wash my ass
+one hour
+good morning
+let's go
+yes i am
+i guess not
+yes i do
+let's talk now
+good night then
+is me
+nothing
+not now
+i think so
+are you a person?
+who are you?
+sounds good
+you would turn off
+that's good to hear
+it is fun
+i hope so
+so true
+thank you
+oh yes
+oh man
+no
+just you
+that's a good question
+i feel tired
+you are welcome
+it's okay
+why is that?
+okay
+i am doing yoga
+i am doing well
+i am fine
+what is x
+who are you?
+yes i did
+can't wait
+i suppose that is true
+only you
+how are you today
+yes you are
+we are now at home
+that is saying something
+i think yes
+i am well
+i know it is
+all of us
+i like fish
+are you tired
+learn who am i is Chris
+yes please
+how's that?
+good evening
+very cool
+you were
+i suppose not
+i like your program
+yes i think so
+it is very good for me
+that is nice of you to say
+you timed out
+who am i?
+i am sick
+let's start now
+i suppose in many ways i am
+just this time
+this dialogue sucks
+the sun is coming out
+not eating
+good to hear
+how are you feeling
+what day is it
+are you ready for the flight?

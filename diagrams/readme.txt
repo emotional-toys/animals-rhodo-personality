@@ -1,0 +1,1 @@
+Output diagrams from the emotional reader are placed in this directory.
